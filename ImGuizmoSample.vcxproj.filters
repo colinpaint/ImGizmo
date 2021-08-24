@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="h">
+      <UniqueIdentifier>{c234e894-74ca-4605-9cfe-7edf9a4db282}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GraphEditor.cpp" />
+    <ClCompile Include="ImCurveEdit.cpp" />
+    <ClCompile Include="ImGradient.cpp" />
+    <ClCompile Include="imgui.cpp" />
+    <ClCompile Include="imgui_demo.cpp" />
+    <ClCompile Include="imgui_draw.cpp" />
+    <ClCompile Include="imgui_tables.cpp" />
+    <ClCompile Include="imgui_widgets.cpp" />
+    <ClCompile Include="ImGuizmo.cpp" />
+    <ClCompile Include="ImSequencer.cpp" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ImSequencer.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="imstb_rectpack.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="imstb_textedit.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="imstb_truetype.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="ImZoomSlider.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphEditor.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="ImApp.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="imconfig.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="ImCurveEdit.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGradient.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui_internal.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGuizmo.h">
+      <Filter>h</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
